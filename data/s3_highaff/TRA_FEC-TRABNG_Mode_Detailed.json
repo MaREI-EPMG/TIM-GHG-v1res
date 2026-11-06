@@ -1,0 +1,48 @@
+{
+  "name": "s3_highaff",
+  "data": [
+    {
+      "seriesName": "DMD_TRA-P-BUS",
+      "seriesValues": [
+        [
+          2068,
+          0.0
+        ],
+        [
+          2069,
+          0.0
+        ],
+        [
+          2070,
+          0.0
+        ],
+        [
+          2071,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-TAXI",
+      "seriesValues": [
+        [
+          2069,
+          0.0
+        ],
+        [
+          2071,
+          0.0
+        ]
+      ]
+    },
+    {
+      "seriesName": "DMD_TRA-P-CAR",
+      "seriesValues": [
+        [
+          2071,
+          0.0
+        ]
+      ]
+    }
+  ]
+}
