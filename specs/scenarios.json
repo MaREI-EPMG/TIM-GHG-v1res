@@ -14,5 +14,9 @@
   {
     "name": "s3_lowbe",
     "variants": [{ "name": "s3_lowbe", "specs": null }]
+  },
+  {
+    "name": "ts-ref",
+    "variants": [{ "name": "ts-ref", "specs": null }]
   }
 ]
