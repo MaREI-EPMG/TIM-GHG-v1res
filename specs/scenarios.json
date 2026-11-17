@@ -18,5 +18,9 @@
   {
     "name": "ts-ref",
     "variants": [{ "name": "ts-ref", "specs": null }]
+  },
+  {
+    "name": "rfo-led",
+    "variants": [{ "name": "rfo-led", "specs": null }]
   }
 ]
