@@ -123,5 +123,16 @@
   "TRA_Passenger_Land_Mode-L": "Land Transport (P) - Long",
   "TRA_Passenger_Land_Mode-M": "Land Transport (P) - Medium",
   "TRA_Passenger_Land_Mode-S": "Land Transport (P) - Short",
-  "TRA_TURS_FuelCons": "Fuel Consumption - Tourism"
+  "TRA_TURS_FuelCons": "Fuel Consumption - Tourism",
+  "SYS_Emissions_GHG_Sector": "Greenhouse Gas Emissions by Sector",
+  "SYS_Emissions_GHG_Sector_Cumulative": "Cumulative Greenhouse Gas Emissions by Sector",
+  "SYS_Emissions_GHG_Gas": "Greenhouse Gas Emissions by Gas",
+  "AGR_Emissions_GHG": "Agriculture Greenhouse Gas Emissions",
+  "AGR_Emissions_CH4_Livestock": "Livestock Methane Emissions",
+  "LULUCF_Emissions": "Land Use, Land-Use Change and Forestry Emissions",
+  "AFL_Land_Area": "Land Area by Land Use",
+  "AFL_Cropland_Use": "Cropland Use by Crop",
+  "AFL_Grassland_Use": "Grassland Use by Livestock System",
+  "AFL_Bioenergy_Crops_Area": "Land for Bioenergy Crops",
+  "AFL_Forest_Harvest": "Roundwood Harvest"
 }
