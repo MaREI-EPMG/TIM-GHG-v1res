@@ -5,6 +5,9 @@
       {
         "path": "emissions-and-cost",
         "charts": [
+          "SYS_Emissions_GHG_Sector",
+          "SYS_Emissions_GHG_Gas",
+          "SYS_Emissions_GHG_Sector_Cumulative",
           "SYS_Emissions_CO2_Domestic",
           "SYS_CO2Price",
           "SYS_Cost_Sector",
@@ -63,7 +66,12 @@
   },
   {
     "path": "supply",
-    "charts": ["SUP_BIODST", "SUP_BIOETH", "SUP_BIOGAS", "SUP_HYDROGEN"]
+    "charts": [
+      "SUP_BIODST",
+      "SUP_BIOETH",
+      "SUP_BIOGAS",
+      "SUP_HYDROGEN"
+    ]
   },
   {
     "path": "power",
@@ -80,7 +88,11 @@
     "routes": [
       {
         "path": "overview",
-        "charts": ["TRA_Emissions-CO2", "TRA_FEC", "TRA-Land_LumpInv"]
+        "charts": [
+          "TRA_Emissions-CO2",
+          "TRA_FEC",
+          "TRA-Land_LumpInv"
+        ]
       },
       {
         "path": "final-energy-consumption",
@@ -125,7 +137,9 @@
     "routes": [
       {
         "path": "overview",
-        "charts": ["RSD_Services_CO2Emissions"]
+        "charts": [
+          "RSD_Services_CO2Emissions"
+        ]
       },
       {
         "path": "final-energy-consumption",
@@ -150,11 +164,18 @@
       },
       {
         "path": "new-heating",
-        "charts": ["RSD_WS-APT_NCAP", "RSD_WS-ATT_NCAP", "RSD_WS-DET_NCAP"]
+        "charts": [
+          "RSD_WS-APT_NCAP",
+          "RSD_WS-ATT_NCAP",
+          "RSD_WS-DET_NCAP"
+        ]
       },
       {
         "path": "house-stock",
-        "charts": ["RSD_BLD_TYPE", "RSD_BLD-N_TYPE"]
+        "charts": [
+          "RSD_BLD_TYPE",
+          "RSD_BLD-N_TYPE"
+        ]
       }
     ]
   },
@@ -193,6 +214,41 @@
   },
   {
     "path": "agriculture",
-    "charts": ["AGR_FEC"]
+    "routes": [
+      {
+        "path": "energy",
+        "charts": [
+          "AGR_FEC"
+        ]
+      },
+      {
+        "path": "emissions",
+        "charts": [
+          "AGR_Emissions_GHG",
+          "AGR_Emissions_CH4_Livestock"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "land-use",
+    "routes": [
+      {
+        "path": "land",
+        "charts": [
+          "AFL_Land_Area",
+          "AFL_Cropland_Use",
+          "AFL_Grassland_Use",
+          "AFL_Bioenergy_Crops_Area"
+        ]
+      },
+      {
+        "path": "forestry-and-lulucf",
+        "charts": [
+          "LULUCF_Emissions",
+          "AFL_Forest_Harvest"
+        ]
+      }
+    ]
   }
 ]
