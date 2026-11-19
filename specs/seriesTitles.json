@@ -609,5 +609,10 @@
   "L-DAC02": "Liquid sorbent DAC (electrified)",
   "SCO2DACS": "CO2 backstop",
   "SYSCO2_DAC": "Direct air capture",
-  "SYSCO2_BACKSTOP": "CO2 backstop"
+  "SYSCO2_BACKSTOP": "CO2 backstop",
+  "AVIKER": "Jet kerosene",
+  "AVIBJK": "Biojet kerosene (SAF)",
+  "AVIPtL": "Synthetic kerosene (PtL)",
+  "AVIELC": "Electricity",
+  "AVIH2": "Hydrogen"
 }

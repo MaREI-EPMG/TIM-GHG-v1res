@@ -99,6 +99,8 @@
         "charts": [
           "TRA_Freight_Land_FuelCons",
           "TRA_Passenger_Land_FuelCons",
+          "TRA_AVIDOM_FuelCons",
+          "TRA_AVIINT_FuelCons",
           "TRA_NAV_FuelCons",
           "TRA_OTH_FuelCons",
           "TRA_TURS_FuelCons"
