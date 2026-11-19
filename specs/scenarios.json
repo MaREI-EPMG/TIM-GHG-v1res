@@ -1,21 +1,5 @@
 [
   {
-    "name": "s1_highbe",
-    "variants": [{ "name": "s1_highbe", "specs": null }]
-  },
-  {
-    "name": "s1_lowaff",
-    "variants": [{ "name": "s1_lowaff", "specs": null }]
-  },
-  {
-    "name": "s3_highaff",
-    "variants": [{ "name": "s3_highaff", "specs": null }]
-  },
-  {
-    "name": "s3_lowbe",
-    "variants": [{ "name": "s3_lowbe", "specs": null }]
-  },
-  {
     "name": "ts-ref",
     "variants": [{ "name": "ts-ref", "specs": null }]
   },
