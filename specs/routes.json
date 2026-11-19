@@ -79,8 +79,7 @@
       "PWR_Cap",
       "PWR_Cap-N",
       "PWR_Emissions-CO2",
-      "PWR_Gen-ELCC",
-      "PWR_Gen-HETC"
+      "PWR_Gen-ELCC"
     ]
   },
   {
@@ -99,8 +98,6 @@
         "charts": [
           "TRA_Freight_Land_FuelCons",
           "TRA_Passenger_Land_FuelCons",
-          "TRA_AVIDOM_FuelCons",
-          "TRA_AVIINT_FuelCons",
           "TRA_NAV_FuelCons",
           "TRA_OTH_FuelCons",
           "TRA_TURS_FuelCons"
@@ -196,20 +193,16 @@
     "charts": [
       "IND_FEC",
       "IND_Emissions-CO2",
-      "IND-TAP_FEC",
-      "IND-ONM_FEC",
-      "IND-TEM_FEC",
-      "IND-WAP_FEC",
-      "IND-OMA_FEC",
-      "IND-RAP_FEC",
-      "IND-EOE_FEC",
-      "IND-CON_FEC",
-      "IND-PX4_FEC",
       "IND-CAF_FEC",
-      "IND-FAB_FEC",
+      "IND-CEM_FEC",
+      "IND-ELC_FEC",
+      "IND-FAP_FEC",
+      "IND-LIM_FEC",
       "IND-MAP_FEC",
-      "IND-NEM_FEC",
-      "IND-MAE_FEC"
+      "IND-OIL_FEC",
+      "IND-OMA_FEC",
+      "IND-ONM_FEC",
+      "IND-WAP_FEC"
     ]
   },
   {
