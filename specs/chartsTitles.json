@@ -134,5 +134,22 @@
   "AFL_Cropland_Use": "Cropland Use by Crop",
   "AFL_Grassland_Use": "Grassland Use by Livestock System",
   "AFL_Bioenergy_Crops_Area": "Land for Bioenergy Crops",
-  "AFL_Forest_Harvest": "Roundwood Harvest"
+  "AFL_Forest_Harvest": "Roundwood Harvest",
+  "SYS_Emissions_CO2_Domestic_Cumulative": "Cumulative Domestic CO2 Emissions by Sector",
+  "SYS_Cost_Sector_Cumulative": "Cumulative Annualised System Costs by Sector",
+  "SYS_LumpInv_Sector_Cumulative": "Cumulative Lump Sum Investment Cost by Sector",
+  "AGR_CO2N_Price": "Marginal Emission Price - Agriculture",
+  "IND_CO2N_Price": "Marginal Emission Price - Industry (Energy)",
+  "IND_CO2P_Price": "Marginal Emission Price - Industry (Process)",
+  "PWR_CO2N_Price": "Marginal Emission Price - Power",
+  "RSD_CO2_Price": "Marginal Emission Price - Residential",
+  "SRV_CO2N_Price": "Marginal Emission Price - Services",
+  "TRA_CO2N_Price": "Marginal Emission Price - Transport",
+  "IND-CEM_FEC": "Cement",
+  "IND-ELC_FEC": "Electricity",
+  "IND-FAP_FEC": "Food and drink",
+  "IND-LIM_FEC": "Lime",
+  "IND-OIL_FEC": "Oil use",
+  "SYS_Emissions_CO2_SYSCO2": "CO2 Emissions and Removals (SYSCO2)",
+  "SYS_CO2_Removal_DAC": "CO2 Removed by Direct Air Capture"
 }
