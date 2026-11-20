@@ -6,5 +6,13 @@
   {
     "name": "rfo-led",
     "variants": [{ "name": "rfo-led", "specs": null }]
+  },
+  {
+    "name": "ts-ref2",
+    "variants": [{ "name": "ts-ref2", "specs": null }]
+  },
+  {
+    "name": "rfo-led2",
+    "variants": [{ "name": "rfo-led2", "specs": null }]
   }
 ]
